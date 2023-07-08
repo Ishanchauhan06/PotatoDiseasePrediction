@@ -7,8 +7,7 @@ Here are some screenshots showcasing the Potato Disease Prediction project:
 
 <a href="https://ibb.co/ZVjt7h3"><img src="https://i.ibb.co/yX9G78D/Screenshot-2023-07-08-125630.png" alt="Screenshot-2023-07-08-125630" border="0"></a>
    This is the home page of the application where users can interact with the system.
-
-<a href="https://ibb.co/qgtXvjT"><img src="https://i.ibb.co/gW5Hx9k/Screenshot-2023-07-08-125906.png" alt="Screenshot-2023-07-08-125906" border="0"></a>
+<a href="https://ibb.co/vhfcGXK"><img src="https://i.ibb.co/VxbLZwP/Screenshot-2023-07-08-125906.png" alt="Screenshot-2023-07-08-125906" border="0"></a>
    Users can upload an image of a potato plant leaf to be analyzed for disease prediction.
 
 <a href="https://ibb.co/ctrjfqt"><img src="https://i.ibb.co/6bWk9Qb/Screenshot-2023-07-08-125950.png" alt="Screenshot-2023-07-08-125950" border="0"></a>
