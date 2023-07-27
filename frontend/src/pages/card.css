@@ -1,0 +1,21 @@
+.card{
+    display: inline-block;
+    background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 40rem;
+    padding : 20px;
+    margin: 20px;
+  }
+
+  .prevention{
+    position: relative;
+    left: 15rem;
+    display: inline-block;
+    background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+    border: 6px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 60rem;
+    padding : 20px;
+    margin: 20px;
+  }
