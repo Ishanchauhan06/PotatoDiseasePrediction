@@ -1,6 +1,6 @@
 # Potato Disease Prediction
 ## Description
-Potato Disease Prediction is a project aimed at predicting whether a potato plant is affected by late blight or early blight diseases. By accurately identifying the disease, appropriate measures can be taken to treat the plant with suitable medicines, thus preventing crop loss. This project utilizes Convolutional Neural Networks (CNN) and TensorFlow framework to achieve disease prediction.
+Potato Disease Prediction is a project to predict whether a potato plant is affected by late or early blight diseases. By accurately identifying the disease, appropriate measures can be taken to treat the plant with suitable medicines, thus preventing crop loss. This project utilizes Convolutional Neural Networks (CNN) and TensorFlow framework to achieve disease prediction.
 
 ## Screenshots
 Here are some screenshots showcasing the Potato Disease Prediction project:
@@ -14,9 +14,12 @@ Here are some screenshots showcasing the Potato Disease Prediction project:
 
 <a href="https://ibb.co/ctrjfqt"><img src="https://i.ibb.co/6bWk9Qb/Screenshot-2023-07-08-125950.png" alt="Screenshot-2023-07-08-125950" border="0"></a>
 
-    After uploading the image, the system processes it using CNN and TensorFlow to predict whether the plant has late blight
-    or early blight. 
-    Based on the prediction, the system provides treatment recommendations for the detected disease.
+  Cure of the disease section
+
+<a href="https://ibb.co/zQwwPMv"><img src="https://i.ibb.co/MZLLPv0/Screenshot-2023-07-27-103205.png" alt="Screenshot-2023-07-27-103205" border="0"></a>
+
+After uploading the image, the system processes it using CNN and TensorFlow to predict whether the plant has late blight
+or early blight. Based on the prediction, the system provides treatment recommendations for the detected disease.
 
 ## Technologies Used
 - Python
